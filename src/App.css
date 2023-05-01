@@ -1,7 +1,14 @@
 .App {
-  text-align: center;
+  text-align: left;
+  font-family: cursive;
+  margin: 30px;
 }
-
+li {
+  list-style-type: none;
+h2{
+  font-weight: ;
+}
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
